@@ -1,4 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Olá,+sou+Lucas+Basso;)](https://git.io/typing-svg)
+
+
+
+
+## 🌎 Encontre-me na web
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucaselanobasso/)
+- ✉️ lucaselanobasso@gmail.com
+- 📚 [Curriculum](curriculum.md)
+
+
+
+
+
+
+
 <!--
 **lucaselanobasso/lucaselanobasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
