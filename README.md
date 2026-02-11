@@ -3,51 +3,65 @@
 </h1>
 
 ---
+Sou **Analista de QA / Estudante de Engenharia de Software**, apaixonado por qualidade, testes e por entender como sistemas funcionam **do backend ao frontend**.
 
-### 👨‍💻 Sobre mim
-
-Em transição de carreira com o objetivo de me tornar um **QA Analyst Júnior**. Atualmente estou focado no aprendizado contínuo sobre **testes de software manuais e automatizados**, buscando aplicar qualidade em todo o ciclo de desenvolvimento.
-
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Uniasselvi.  
-🚀 Em processo ativo de estudos e prática na área de QA.  
-📌 Localização: Brasil | Disponível para trabalho remoto.  
+Atualmente foco em **testes de software**, automação, qualidade de produtos digitais e boas práticas no ciclo de desenvolvimento.
 
 ---
 
-### 🎯 Objetivos de Carreira
+## 🧪 Sobre mim
 
-- 📌 Atuar como QA Júnior com foco em qualidade de software e automação de testes.
-- 🧪 Desenvolver habilidades sólidas em testes manuais, de API, integração e regressão.
-- 🔄 Trabalhar em ambientes com **CI/CD**, metodologias ágeis e foco em melhoria contínua.
-- 🤝 Contribuir para equipes de desenvolvimento com uma mentalidade orientada à qualidade.
-
----
-
-### 🧰 Tecnologias e Ferramentas
-
-| Categoria       | Ferramentas / Tecnologias                  |
-|----------------|---------------------------------------------|
-| Linguagens     | JavaScript, HTML, CSS                       |
-| Testes         | Cypress, K6, Postman                        |
-| Frameworks     | Mocha, Chai, Gherkin                        |
-| Conceitos QA   | ISO 29119, Testes de Regressão, API, UI     |
-| Outros         | Git, GitHub, CI/CD,                         |
+- 🎯 Foco em **Qualidade de Software (QA)**
+- 🔍 Experiência com **testes manuais, exploratórios e automatizados**
+- 🌐 Interesse em **aplicações web modernas**
+- 🚀 Sempre buscando evoluir do **QA Júnior para níveis mais avançados**
+- 📚 Estudando constantemente boas práticas, arquitetura e testes
 
 ---
 
-### 📚 Estudando no momento
+## 🛠️ Tecnologias e Ferramentas
 
-- 🧠 **Automação com Cypress**
-- 🔍 **Gherkin + Testes baseados em comportamento (BDD)**
-- 🔬 **Testes de performance com K6**
-- 🧩 **Integração de testes em pipelines CI/CD**
-- 📘 **Boas práticas com base na ISO 29119**
+**Testes & Qualidade**
+- Testes Manuais e Exploratório
+- Testes Funcionais e Regressão
+- Escrita de Casos de Teste (ISO / Gherkin)
+- Testes de API
+- Testes de Performance
+
+**Automação**
+- Cypress
+- JavaScript
+- SuperTest
+- K6
+
+**Desenvolvimento & Infra**
+- HTML, CSS, JavaScript
+- Node.js
+- PostgreSQL
+- Docker
+- Git & GitHub
+- CI/CD (conceitos e prática)
 
 ---
 
-### 🛠️ Projetos em destaque
+## 📂 Repositórios
 
-- [Testes de API - Mentoria 2.0 do Julio De Lima](https://github.com/lucaselanobasso/banco-api-tests) – Testes automatizados baseados em uma API REST fictícia.
+Aqui você vai encontrar:
+
+- 🔹 Projetos de **automação de testes**
+- 🔹 Exemplos de **casos de teste e documentação**
+- 🔹 Estudos práticos de QA
+- 🔹 Projetos full stack para aprendizado
+- 🔹 Experimentos com infraestrutura, APIs e banco de dados
+
+Cada repositório tem um objetivo claro de aprendizado ou prática real.
+
+---
+
+## 📈 Em constante evolução
+
+Este GitHub reflete minha jornada de aprendizado em tecnologia e QA.  
+Estou sempre aprimorando código, testes, documentação e boas práticas.
 
 ---
 
@@ -58,5 +72,3 @@ Em transição de carreira com o objetivo de me tornar um **QA Analyst Júnior**
 - 💻 GitHub: [lucaselanobasso](https://github.com/lucaselanobasso)
 
 ---
-
-⭐ Obrigado por visitar meu perfil! Estou em constante evolução — aberto a conexões, oportunidades e feedbacks que me ajudem a crescer como QA profissional.
