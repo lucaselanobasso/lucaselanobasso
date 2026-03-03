@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Basso!;Analista+de+QA+Jr.;Qualidade+%C3%A9+o+meu+foco.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Basso!;Analista+de+QA+Jr.;" alt="Typing SVG" />
 </h1>
 
 ---
