@@ -14,7 +14,7 @@ I test software the way modern systems demand it: automated, spec-driven, and in
 
 ### 🌱 Currently exploring
 
-- Local LLM evaluation workflows with **Ollama** — cost-free, reproducible model output testing.
+- Going deeper into **agent-as-judge evaluation**: assessing multi-step AI agent behavior — not just single LLM outputs — for correctness and reliability.
 - Shift-left quality practices: embedding QA earlier into spec/design, not just at the test-execution stage.
 - Preparing for **ISTQB Foundation** certification.
 
